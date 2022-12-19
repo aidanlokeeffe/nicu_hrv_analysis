@@ -6,6 +6,21 @@
 5) Create an elevator interview script for the project
 DONE
 
+Okay, I have the external hard drive now. I am going to write up a to do list for tomorrow.
+I sure hope there's enough space on that hard drive to hold all of the data. If not, I'll 
+have to weigh my options. 
+
+This year is coming into its final days, but if I work patiently, I believe I can have this
+repository ready to show off by the end of the year.
+
+Row your boat.
+
+
+
+
+
+
+
 Then:
 1) Read more about survival analysis; make sure that your approach is theoretically valid
 2) Create a diagram of the data pipeline
@@ -21,3 +36,4 @@ random networks supporting a particular stochastic cellular automaton, here dubb
 brancher-annihilator. In particular, we use techniques from survival analysis to generate
 estimates of the extinction hazard function, and then we regress on network parameters to
 investigate the relationship between network structure and network function.
+
