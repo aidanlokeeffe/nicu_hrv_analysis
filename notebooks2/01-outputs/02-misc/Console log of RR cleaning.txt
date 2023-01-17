@@ -1,0 +1,150 @@
+Starting now with infant 3
+Infant 3 R peaks all loaded in
+Uncleaned RR Intervals Written
+Intervals outside of [0.25, 5] filtered out
+0.0% Complete
+5.0% Complete
+10.0% Complete
+14.99% Complete
+19.99% Complete
+24.98% Complete
+29.970000000000002% Complete
+34.949999999999996% Complete
+39.93% Complete
+44.91% Complete
+49.88% Complete
+54.86% Complete
+59.830000000000005% Complete
+64.8% Complete
+69.75% Complete
+74.72% Complete
+79.67999999999999% Complete
+84.63000000000001% Complete
+89.57000000000001% Complete
+94.46% Complete
+99.4% Complete
+Multiple intervals all broken up
+Imputed: 29961
+Max Imputed: 15
+Cleaned RR intervals written to file, 55.6% memory usage
+
+Starting now with infant 4
+Infant 4 R peaks all loaded in
+Uncleaned RR Intervals Written
+Intervals outside of [0.25, 5] filtered out
+0.0% Complete
+5.0% Complete
+10.0% Complete
+14.99% Complete
+19.98% Complete
+24.98% Complete
+29.970000000000002% Complete
+34.96% Complete
+39.94% Complete
+44.91% Complete
+49.88% Complete
+54.85% Complete
+59.8% Complete
+64.77000000000001% Complete
+69.74000000000001% Complete
+74.72% Complete
+79.67999999999999% Complete
+84.65% Complete
+89.61% Complete
+94.58% Complete
+99.53999999999999% Complete
+Multiple intervals all broken up
+Imputed: 30082
+Max Imputed: 17
+Cleaned RR intervals written to file, 53.4% memory usage
+
+Starting now with infant 5
+Infant 5 R peaks all loaded in
+Uncleaned RR Intervals Written
+Intervals outside of [0.25, 5] filtered out
+0.0% Complete
+5.0% Complete
+9.99% Complete
+14.979999999999999% Complete
+19.97% Complete
+24.95% Complete
+29.93% Complete
+34.9% Complete
+39.87% Complete
+44.84% Complete
+49.81% Complete
+54.769999999999996% Complete
+59.709999999999994% Complete
+64.57000000000001% Complete
+69.45% Complete
+74.33999999999999% Complete
+79.25% Complete
+84.17999999999999% Complete
+89.09% Complete
+93.99% Complete
+98.86% Complete
+Multiple intervals all broken up
+Imputed: 65974
+Max Imputed: 19
+Cleaned RR intervals written to file, 54.8% memory usage
+
+Starting now with infant 6
+Infant 6 R peaks all loaded in
+Uncleaned RR Intervals Written
+Intervals outside of [0.25, 5] filtered out
+0.0% Complete
+5.0% Complete
+10.0% Complete
+14.99% Complete
+19.98% Complete
+24.98% Complete
+29.970000000000002% Complete
+34.96% Complete
+39.94% Complete
+44.93% Complete
+49.91% Complete
+54.900000000000006% Complete
+59.88% Complete
+64.85% Complete
+69.83% Complete
+74.8% Complete
+79.77% Complete
+84.72% Complete
+89.67% Complete
+94.64% Complete
+99.6% Complete
+Multiple intervals all broken up
+Imputed: 27122
+Max Imputed: 16
+Cleaned RR intervals written to file, 55.5% memory usage
+
+Starting now with infant 7
+Infant 7 R peaks all loaded in
+Uncleaned RR Intervals Written
+Intervals outside of [0.25, 5] filtered out
+0.0% Complete
+5.0% Complete
+9.98% Complete
+14.940000000000001% Complete
+19.900000000000002% Complete
+24.85% Complete
+29.799999999999997% Complete
+34.72% Complete
+39.65% Complete
+44.55% Complete
+49.480000000000004% Complete
+54.42% Complete
+59.35% Complete
+64.24% Complete
+69.1% Complete
+73.94% Complete
+78.72% Complete
+83.53% Complete
+88.4% Complete
+93.25% Complete
+97.98% Complete
+Multiple intervals all broken up
+Imputed: 138352
+Max Imputed: 12
+Cleaned RR intervals written to file, 61.0% memory usage
+
