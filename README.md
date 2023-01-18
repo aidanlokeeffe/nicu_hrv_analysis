@@ -1,4 +1,9 @@
 # nicu_hrv_analysis
-The purpose of this repository is to showcase my research project in the analysis of heart rate variability of preterm neonates. This work began as an undergraduate level research project in the Fall of 2022, though finishing touches are ongoing. I have many thanks to give to Dr. Joshua Chang, a neurologist at UT Austin who provided me with data and guidance for this project.
+The purpose of this repository is to showcase my project in the analysis of heart rate variability in preterm neonates to predict sepsis. This work was academic in nature, but my intended audience consists of potential employers.
 
-The raw data are ECG time series for 7 preterm neonates, 3 of whom developed sepsis, the other 4 of whom had relatively uncomplicated stays and were close in post-gestational age to the infants who got sick. The files are too large to store in GitHub, so for now, I have resorted to housing them on an external harddrive. I may include some dummy data for the purpose of running the notebooks. Said notebooks are in this respository, with old notebooks stored in the folders called "11-3" and "11-26", and the ones I'm willing to show off in "notebooks". I also plan to have a nice write up done in LaTeX which clearly explains this project from the perspective of a data analyst.
+This project demonstrates:
+  1) Experience with key Python libraries used by data scientists, including pandas and matplotlib,
+  2) Experience with data cleaning, particularly the cleaning of physiological time series data, and
+  3) My ability to self teach an application area about which I knew nothing at the start.
+  
+Currently, I am very nearly done with a write up about this project. Once it is complete, I will consider this respository presentable and will include in on my resume for employers to review.
