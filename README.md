@@ -1,5 +1,5 @@
 # nicu_hrv_analysis
-Abstract
+##Abstract
 
 Sepsis is a leading cause of death for preterm infants. Researchers have sought to develop methods for the early detection of sepsis using vital sign measurements. One area that has shown promise is heart rate variability. This project attempts to answer the question: Do heart rate variability metrics show signatures that indicate sepsis? This project’s answer to the question is negative, but there is much room for improvement.
 
@@ -9,7 +9,7 @@ The first group is Dr. Chang, Dr. Groves, and any undergraduates of theirs who m
 
 The second group is potential employers in data science who want to see a demonstration of my skills. For them, the materials, methods, results, and discussion sections will demonstrate a proficiency in data cleaning. Additionally, the figures demonstrate that the validity of the pipeline processes was checked along the way. My goal was to illustrate the story of how I cleaned this data and to provide actionable suggestions to improve these procedures.
 
-Details
+##Details
 
 A full report of this project is provided in the pdf "Analysis of Heart Rate Variability to Predict Sepsis in Preterm Neonates". This is intended for my academic colleagues as well as potential employers.
 
